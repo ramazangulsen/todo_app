@@ -1,6 +1,7 @@
 # todo_app
 
-A new Flutter project.
+
+I designed a simple app using Riverpod.
 
 ## Getting Started
 
